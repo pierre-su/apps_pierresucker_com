@@ -1,0 +1,42 @@
+{
+  "sidebar": {
+    "en": [
+      {
+        "pages": [
+          {
+            "title": "Overview",
+            "href": "/"
+          }
+        ]
+      },
+      {
+        "group": "Apps",
+        "pages": [
+          {
+            "title": "Hello World",
+            "href": "/apps/hello-world"
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "pages": [
+          {
+            "title": "Übersicht",
+            "href": "/"
+          }
+        ]
+      },
+      {
+        "group": "Apps",
+        "pages": [
+          {
+            "title": "Hallo Welt",
+            "href": "/apps/hello-world"
+          }
+        ]
+      }
+    ]
+  }
+}
